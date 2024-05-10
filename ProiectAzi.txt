@@ -1,0 +1,69 @@
+Sources:
+
+ 
+
+Jokes API: https://official-joke-api.appspot.com/random_joke (beware of rate limiters -> do not create infinite requests)
+Chat GPT: https://europe-west4-nomadic-pathway-385517.cloudfunctions.net/internship?question=<QUESTION>
+
+ 
+
+
+Requirement:
+
+ 
+
+Create a Java project that is able to generate and display the following objectives (a progression)
+
+ 
+
+ 
+
+Objective 1:
+
+ 
+
+Generate a joke book with 5 jokes.
+
+ 
+
+------------------------------------------------------
+
+ 
+
+Objective 2:
+
+ 
+
+Generate joke book with 5 jokes in the same category
+Display also the category
+
+ 
+
+------------------------------------------------------
+
+ 
+
+
+Objective 3:
+
+ 
+
+Generate joke book with 5 jokes and rate the jokes from 1 to 5 on how funny it is
+Display the rating for each joke
+
+ 
+
+
+------------------------------------------------------
+
+ 
+
+
+Objective 4:
+
+ 
+
+Generate joke book with 5 jokes.
+Generate an automated review of the joke book
+
+ 

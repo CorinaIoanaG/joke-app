@@ -1,4 +1,4 @@
-package accesa.eu.jokeapp.model;
+package eu.jokeapp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

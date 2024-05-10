@@ -1,4 +1,4 @@
-package accesa.eu.jokeapp;
+package eu.jokeapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

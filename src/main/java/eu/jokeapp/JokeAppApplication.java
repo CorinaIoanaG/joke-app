@@ -1,4 +1,4 @@
-package accesa.eu.jokeapp;
+package eu.jokeapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

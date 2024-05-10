@@ -1,8 +1,8 @@
-package accesa.eu.jokeapp.service;
+package eu.jokeapp.service;
 
-import accesa.eu.jokeapp.model.Joke;
-import accesa.eu.jokeapp.model.JokeBook;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import eu.jokeapp.model.Joke;
+import eu.jokeapp.model.JokeBook;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

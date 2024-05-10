@@ -8,7 +8,7 @@
 		<version>3.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>accesa.eu</groupId>
+	<groupId>eu</groupId>
 	<artifactId>joke-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>joke-app</name>
